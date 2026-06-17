@@ -1,0 +1,917 @@
+Year,Season,ONI,ENSO_Phase
+1950.0,DJF,-1.5,La Nina
+1951.0,DJF,-0.8,La Nina
+1952.0,DJF,0.5,El Nino
+1953.0,DJF,0.4,Neutral
+1954.0,DJF,0.8,El Nino
+1955.0,DJF,-0.7,La Nina
+1956.0,DJF,-1.1,La Nina
+1957.0,DJF,-0.2,Neutral
+1958.0,DJF,1.8,El Nino
+1959.0,DJF,0.6,El Nino
+1960.0,DJF,-0.1,Neutral
+1961.0,DJF,0.0,Neutral
+1962.0,DJF,-0.2,Neutral
+1963.0,DJF,-0.4,Neutral
+1964.0,DJF,1.1,El Nino
+1965.0,DJF,-0.6,La Nina
+1966.0,DJF,1.4,El Nino
+1967.0,DJF,-0.4,Neutral
+1968.0,DJF,-0.6,La Nina
+1969.0,DJF,1.1,El Nino
+1970.0,DJF,0.5,El Nino
+1971.0,DJF,-1.4,La Nina
+1972.0,DJF,-0.7,La Nina
+1973.0,DJF,1.8,El Nino
+1974.0,DJF,-1.8,La Nina
+1975.0,DJF,-0.5,La Nina
+1976.0,DJF,-1.6,La Nina
+1977.0,DJF,0.7,El Nino
+1978.0,DJF,0.7,El Nino
+1979.0,DJF,0.0,Neutral
+1980.0,DJF,0.6,El Nino
+1981.0,DJF,-0.3,Neutral
+1982.0,DJF,0.0,Neutral
+1983.0,DJF,2.2,El Nino
+1984.0,DJF,-0.6,La Nina
+1985.0,DJF,-1.0,La Nina
+1986.0,DJF,-0.5,La Nina
+1987.0,DJF,1.2,El Nino
+1988.0,DJF,0.8,El Nino
+1989.0,DJF,-1.7,La Nina
+1990.0,DJF,0.1,Neutral
+1991.0,DJF,0.4,Neutral
+1992.0,DJF,1.7,El Nino
+1993.0,DJF,0.1,Neutral
+1994.0,DJF,0.1,Neutral
+1995.0,DJF,1.0,El Nino
+1996.0,DJF,-0.9,La Nina
+1997.0,DJF,-0.5,La Nina
+1998.0,DJF,2.2,El Nino
+1999.0,DJF,-1.5,La Nina
+2000.0,DJF,-1.7,La Nina
+2001.0,DJF,-0.7,La Nina
+2002.0,DJF,-0.1,Neutral
+2003.0,DJF,0.9,El Nino
+2004.0,DJF,0.4,Neutral
+2005.0,DJF,0.6,El Nino
+2006.0,DJF,-0.9,La Nina
+2007.0,DJF,0.7,El Nino
+2008.0,DJF,-1.6,La Nina
+2009.0,DJF,-0.8,La Nina
+2010.0,DJF,1.5,El Nino
+2011.0,DJF,-1.3,La Nina
+2012.0,DJF,-0.7,La Nina
+2013.0,DJF,-0.3,Neutral
+2014.0,DJF,-0.3,Neutral
+2015.0,DJF,0.7,El Nino
+2016.0,DJF,2.6,El Nino
+2017.0,DJF,-0.2,Neutral
+2018.0,DJF,-0.8,La Nina
+2019.0,DJF,0.9,El Nino
+2020.0,DJF,0.6,El Nino
+2021.0,DJF,-0.9,La Nina
+2022.0,DJF,-0.8,La Nina
+2023.0,DJF,-0.5,La Nina
+2024.0,DJF,1.9,El Nino
+2025.0,DJF,-0.4,Neutral
+2026.0,DJF,-0.4,Neutral
+1950.0,JFM,-1.3,La Nina
+1951.0,JFM,-0.5,La Nina
+1952.0,JFM,0.4,Neutral
+1953.0,JFM,0.6,El Nino
+1954.0,JFM,0.5,El Nino
+1955.0,JFM,-0.6,La Nina
+1956.0,JFM,-0.8,La Nina
+1957.0,JFM,0.1,Neutral
+1958.0,JFM,1.7,El Nino
+1959.0,JFM,0.6,El Nino
+1960.0,JFM,-0.1,Neutral
+1961.0,JFM,0.0,Neutral
+1962.0,JFM,-0.2,Neutral
+1963.0,JFM,-0.2,Neutral
+1964.0,JFM,0.6,El Nino
+1965.0,JFM,-0.3,Neutral
+1966.0,JFM,1.2,El Nino
+1967.0,JFM,-0.5,La Nina
+1968.0,JFM,-0.7,La Nina
+1969.0,JFM,1.1,El Nino
+1970.0,JFM,0.3,Neutral
+1971.0,JFM,-1.4,La Nina
+1972.0,JFM,-0.4,Neutral
+1973.0,JFM,1.2,El Nino
+1974.0,JFM,-1.6,La Nina
+1975.0,JFM,-0.6,La Nina
+1976.0,JFM,-1.2,La Nina
+1977.0,JFM,0.6,El Nino
+1978.0,JFM,0.4,Neutral
+1979.0,JFM,0.1,Neutral
+1980.0,JFM,0.5,El Nino
+1981.0,JFM,-0.5,La Nina
+1982.0,JFM,0.1,Neutral
+1983.0,JFM,1.9,El Nino
+1984.0,JFM,-0.4,Neutral
+1985.0,JFM,-0.8,La Nina
+1986.0,JFM,-0.5,La Nina
+1987.0,JFM,1.2,El Nino
+1988.0,JFM,0.5,El Nino
+1989.0,JFM,-1.4,La Nina
+1990.0,JFM,0.2,Neutral
+1991.0,JFM,0.3,Neutral
+1992.0,JFM,1.6,El Nino
+1993.0,JFM,0.3,Neutral
+1994.0,JFM,0.1,Neutral
+1995.0,JFM,0.7,El Nino
+1996.0,JFM,-0.8,La Nina
+1997.0,JFM,-0.4,Neutral
+1998.0,JFM,1.9,El Nino
+1999.0,JFM,-1.3,La Nina
+2000.0,JFM,-1.4,La Nina
+2001.0,JFM,-0.5,La Nina
+2002.0,JFM,0.0,Neutral
+2003.0,JFM,0.6,El Nino
+2004.0,JFM,0.3,Neutral
+2005.0,JFM,0.6,El Nino
+2006.0,JFM,-0.8,La Nina
+2007.0,JFM,0.2,Neutral
+2008.0,JFM,-1.5,La Nina
+2009.0,JFM,-0.8,La Nina
+2010.0,JFM,1.2,El Nino
+2011.0,JFM,-1.0,La Nina
+2012.0,JFM,-0.6,La Nina
+2013.0,JFM,-0.3,Neutral
+2014.0,JFM,-0.3,Neutral
+2015.0,JFM,0.6,El Nino
+2016.0,JFM,2.3,El Nino
+2017.0,JFM,0.0,Neutral
+2018.0,JFM,-0.7,La Nina
+2019.0,JFM,0.9,El Nino
+2020.0,JFM,0.6,El Nino
+2021.0,JFM,-0.8,La Nina
+2022.0,JFM,-0.8,La Nina
+2023.0,JFM,-0.3,Neutral
+2024.0,JFM,1.6,El Nino
+2025.0,JFM,-0.2,Neutral
+2026.0,JFM,-0.1,Neutral
+1950.0,FMA,-1.2,La Nina
+1951.0,FMA,-0.2,Neutral
+1952.0,FMA,0.3,Neutral
+1953.0,FMA,0.6,El Nino
+1954.0,FMA,0.0,Neutral
+1955.0,FMA,-0.7,La Nina
+1956.0,FMA,-0.6,La Nina
+1957.0,FMA,0.4,Neutral
+1958.0,FMA,1.3,El Nino
+1959.0,FMA,0.5,El Nino
+1960.0,FMA,-0.1,Neutral
+1961.0,FMA,0.0,Neutral
+1962.0,FMA,-0.2,Neutral
+1963.0,FMA,0.2,Neutral
+1964.0,FMA,0.1,Neutral
+1965.0,FMA,-0.1,Neutral
+1966.0,FMA,1.0,El Nino
+1967.0,FMA,-0.5,La Nina
+1968.0,FMA,-0.6,La Nina
+1969.0,FMA,0.9,El Nino
+1970.0,FMA,0.3,Neutral
+1971.0,FMA,-1.1,La Nina
+1972.0,FMA,0.1,Neutral
+1973.0,FMA,0.5,El Nino
+1974.0,FMA,-1.2,La Nina
+1975.0,FMA,-0.7,La Nina
+1976.0,FMA,-0.7,La Nina
+1977.0,FMA,0.3,Neutral
+1978.0,FMA,0.1,Neutral
+1979.0,FMA,0.2,Neutral
+1980.0,FMA,0.3,Neutral
+1981.0,FMA,-0.5,La Nina
+1982.0,FMA,0.2,Neutral
+1983.0,FMA,1.5,El Nino
+1984.0,FMA,-0.3,Neutral
+1985.0,FMA,-0.8,La Nina
+1986.0,FMA,-0.3,Neutral
+1987.0,FMA,1.1,El Nino
+1988.0,FMA,0.1,Neutral
+1989.0,FMA,-1.1,La Nina
+1990.0,FMA,0.3,Neutral
+1991.0,FMA,0.2,Neutral
+1992.0,FMA,1.5,El Nino
+1993.0,FMA,0.5,El Nino
+1994.0,FMA,0.2,Neutral
+1995.0,FMA,0.5,El Nino
+1996.0,FMA,-0.6,La Nina
+1997.0,FMA,-0.1,Neutral
+1998.0,FMA,1.4,El Nino
+1999.0,FMA,-1.1,La Nina
+2000.0,FMA,-1.1,La Nina
+2001.0,FMA,-0.4,Neutral
+2002.0,FMA,0.1,Neutral
+2003.0,FMA,0.4,Neutral
+2004.0,FMA,0.2,Neutral
+2005.0,FMA,0.4,Neutral
+2006.0,FMA,-0.6,La Nina
+2007.0,FMA,-0.1,Neutral
+2008.0,FMA,-1.3,La Nina
+2009.0,FMA,-0.6,La Nina
+2010.0,FMA,0.8,El Nino
+2011.0,FMA,-0.8,La Nina
+2012.0,FMA,-0.5,La Nina
+2013.0,FMA,-0.2,Neutral
+2014.0,FMA,-0.1,Neutral
+2015.0,FMA,0.7,El Nino
+2016.0,FMA,1.7,El Nino
+2017.0,FMA,0.2,Neutral
+2018.0,FMA,-0.6,La Nina
+2019.0,FMA,0.8,El Nino
+2020.0,FMA,0.5,El Nino
+2021.0,FMA,-0.7,La Nina
+2022.0,FMA,-0.9,La Nina
+2023.0,FMA,0.0,Neutral
+2024.0,FMA,1.3,El Nino
+2025.0,FMA,-0.1,Neutral
+2026.0,FMA,0.1,Neutral
+1950.0,MAM,-1.2,La Nina
+1951.0,MAM,0.2,Neutral
+1952.0,MAM,0.3,Neutral
+1953.0,MAM,0.7,El Nino
+1954.0,MAM,-0.4,Neutral
+1955.0,MAM,-0.8,La Nina
+1956.0,MAM,-0.5,La Nina
+1957.0,MAM,0.7,El Nino
+1958.0,MAM,0.9,El Nino
+1959.0,MAM,0.3,Neutral
+1960.0,MAM,0.0,Neutral
+1961.0,MAM,0.1,Neutral
+1962.0,MAM,-0.3,Neutral
+1963.0,MAM,0.3,Neutral
+1964.0,MAM,-0.3,Neutral
+1965.0,MAM,0.2,Neutral
+1966.0,MAM,0.7,El Nino
+1967.0,MAM,-0.4,Neutral
+1968.0,MAM,-0.4,Neutral
+1969.0,MAM,0.8,El Nino
+1970.0,MAM,0.2,Neutral
+1971.0,MAM,-0.8,La Nina
+1972.0,MAM,0.4,Neutral
+1973.0,MAM,-0.1,Neutral
+1974.0,MAM,-1.0,La Nina
+1975.0,MAM,-0.7,La Nina
+1976.0,MAM,-0.5,La Nina
+1977.0,MAM,0.2,Neutral
+1978.0,MAM,-0.2,Neutral
+1979.0,MAM,0.3,Neutral
+1980.0,MAM,0.4,Neutral
+1981.0,MAM,-0.4,Neutral
+1982.0,MAM,0.5,El Nino
+1983.0,MAM,1.3,El Nino
+1984.0,MAM,-0.4,Neutral
+1985.0,MAM,-0.8,La Nina
+1986.0,MAM,-0.2,Neutral
+1987.0,MAM,0.9,El Nino
+1988.0,MAM,-0.3,Neutral
+1989.0,MAM,-0.8,La Nina
+1990.0,MAM,0.3,Neutral
+1991.0,MAM,0.3,Neutral
+1992.0,MAM,1.3,El Nino
+1993.0,MAM,0.7,El Nino
+1994.0,MAM,0.3,Neutral
+1995.0,MAM,0.3,Neutral
+1996.0,MAM,-0.4,Neutral
+1997.0,MAM,0.3,Neutral
+1998.0,MAM,1.0,El Nino
+1999.0,MAM,-1.0,La Nina
+2000.0,MAM,-0.8,La Nina
+2001.0,MAM,-0.3,Neutral
+2002.0,MAM,0.2,Neutral
+2003.0,MAM,0.0,Neutral
+2004.0,MAM,0.2,Neutral
+2005.0,MAM,0.4,Neutral
+2006.0,MAM,-0.4,Neutral
+2007.0,MAM,-0.3,Neutral
+2008.0,MAM,-1.0,La Nina
+2009.0,MAM,-0.3,Neutral
+2010.0,MAM,0.4,Neutral
+2011.0,MAM,-0.6,La Nina
+2012.0,MAM,-0.4,Neutral
+2013.0,MAM,-0.2,Neutral
+2014.0,MAM,0.2,Neutral
+2015.0,MAM,0.8,El Nino
+2016.0,MAM,1.0,El Nino
+2017.0,MAM,0.3,Neutral
+2018.0,MAM,-0.4,Neutral
+2019.0,MAM,0.8,El Nino
+2020.0,MAM,0.3,Neutral
+2021.0,MAM,-0.5,La Nina
+2022.0,MAM,-1.0,La Nina
+2023.0,MAM,0.3,Neutral
+2024.0,MAM,0.8,El Nino
+2025.0,MAM,0.0,Neutral
+2026.0,MAM,0.5,El Nino
+1950.0,AMJ,-1.1,La Nina
+1951.0,AMJ,0.4,Neutral
+1952.0,AMJ,0.2,Neutral
+1953.0,AMJ,0.8,El Nino
+1954.0,AMJ,-0.5,La Nina
+1955.0,AMJ,-0.8,La Nina
+1956.0,AMJ,-0.5,La Nina
+1957.0,AMJ,0.9,El Nino
+1958.0,AMJ,0.7,El Nino
+1959.0,AMJ,0.2,Neutral
+1960.0,AMJ,0.0,Neutral
+1961.0,AMJ,0.2,Neutral
+1962.0,AMJ,-0.3,Neutral
+1963.0,AMJ,0.3,Neutral
+1964.0,AMJ,-0.6,La Nina
+1965.0,AMJ,0.5,El Nino
+1966.0,AMJ,0.4,Neutral
+1967.0,AMJ,-0.2,Neutral
+1968.0,AMJ,0.0,Neutral
+1969.0,AMJ,0.6,El Nino
+1970.0,AMJ,0.0,Neutral
+1971.0,AMJ,-0.7,La Nina
+1972.0,AMJ,0.7,El Nino
+1973.0,AMJ,-0.5,La Nina
+1974.0,AMJ,-0.9,La Nina
+1975.0,AMJ,-0.8,La Nina
+1976.0,AMJ,-0.3,Neutral
+1977.0,AMJ,0.2,Neutral
+1978.0,AMJ,-0.3,Neutral
+1979.0,AMJ,0.2,Neutral
+1980.0,AMJ,0.5,El Nino
+1981.0,AMJ,-0.3,Neutral
+1982.0,AMJ,0.7,El Nino
+1983.0,AMJ,1.1,El Nino
+1984.0,AMJ,-0.5,La Nina
+1985.0,AMJ,-0.8,La Nina
+1986.0,AMJ,-0.1,Neutral
+1987.0,AMJ,1.0,El Nino
+1988.0,AMJ,-0.9,La Nina
+1989.0,AMJ,-0.6,La Nina
+1990.0,AMJ,0.3,Neutral
+1991.0,AMJ,0.5,El Nino
+1992.0,AMJ,1.1,El Nino
+1993.0,AMJ,0.7,El Nino
+1994.0,AMJ,0.4,Neutral
+1995.0,AMJ,0.1,Neutral
+1996.0,AMJ,-0.3,Neutral
+1997.0,AMJ,0.8,El Nino
+1998.0,AMJ,0.5,El Nino
+1999.0,AMJ,-1.0,La Nina
+2000.0,AMJ,-0.7,La Nina
+2001.0,AMJ,-0.3,Neutral
+2002.0,AMJ,0.4,Neutral
+2003.0,AMJ,-0.3,Neutral
+2004.0,AMJ,0.2,Neutral
+2005.0,AMJ,0.3,Neutral
+2006.0,AMJ,-0.1,Neutral
+2007.0,AMJ,-0.4,Neutral
+2008.0,AMJ,-0.8,La Nina
+2009.0,AMJ,0.0,Neutral
+2010.0,AMJ,-0.2,Neutral
+2011.0,AMJ,-0.5,La Nina
+2012.0,AMJ,-0.2,Neutral
+2013.0,AMJ,-0.3,Neutral
+2014.0,AMJ,0.3,Neutral
+2015.0,AMJ,1.0,El Nino
+2016.0,AMJ,0.5,El Nino
+2017.0,AMJ,0.4,Neutral
+2018.0,AMJ,-0.1,Neutral
+2019.0,AMJ,0.6,El Nino
+2020.0,AMJ,0.0,Neutral
+2021.0,AMJ,-0.4,Neutral
+2022.0,AMJ,-0.9,La Nina
+2023.0,AMJ,0.6,El Nino
+2024.0,AMJ,0.5,El Nino
+2025.0,AMJ,0.0,Neutral
+1950.0,MJJ,-0.9,La Nina
+1951.0,MJJ,0.6,El Nino
+1952.0,MJJ,0.0,Neutral
+1953.0,MJJ,0.8,El Nino
+1954.0,MJJ,-0.5,La Nina
+1955.0,MJJ,-0.7,La Nina
+1956.0,MJJ,-0.5,La Nina
+1957.0,MJJ,1.1,El Nino
+1958.0,MJJ,0.6,El Nino
+1959.0,MJJ,-0.1,Neutral
+1960.0,MJJ,0.0,Neutral
+1961.0,MJJ,0.3,Neutral
+1962.0,MJJ,-0.2,Neutral
+1963.0,MJJ,0.5,El Nino
+1964.0,MJJ,-0.6,La Nina
+1965.0,MJJ,0.8,El Nino
+1966.0,MJJ,0.2,Neutral
+1967.0,MJJ,0.0,Neutral
+1968.0,MJJ,0.3,Neutral
+1969.0,MJJ,0.4,Neutral
+1970.0,MJJ,-0.3,Neutral
+1971.0,MJJ,-0.7,La Nina
+1972.0,MJJ,0.9,El Nino
+1973.0,MJJ,-0.9,La Nina
+1974.0,MJJ,-0.8,La Nina
+1975.0,MJJ,-1.0,La Nina
+1976.0,MJJ,0.0,Neutral
+1977.0,MJJ,0.3,Neutral
+1978.0,MJJ,-0.3,Neutral
+1979.0,MJJ,0.0,Neutral
+1980.0,MJJ,0.5,El Nino
+1981.0,MJJ,-0.3,Neutral
+1982.0,MJJ,0.7,El Nino
+1983.0,MJJ,0.7,El Nino
+1984.0,MJJ,-0.4,Neutral
+1985.0,MJJ,-0.6,La Nina
+1986.0,MJJ,0.0,Neutral
+1987.0,MJJ,1.2,El Nino
+1988.0,MJJ,-1.3,La Nina
+1989.0,MJJ,-0.4,Neutral
+1990.0,MJJ,0.3,Neutral
+1991.0,MJJ,0.6,El Nino
+1992.0,MJJ,0.7,El Nino
+1993.0,MJJ,0.6,El Nino
+1994.0,MJJ,0.4,Neutral
+1995.0,MJJ,0.0,Neutral
+1996.0,MJJ,-0.3,Neutral
+1997.0,MJJ,1.2,El Nino
+1998.0,MJJ,-0.1,Neutral
+1999.0,MJJ,-1.0,La Nina
+2000.0,MJJ,-0.6,La Nina
+2001.0,MJJ,-0.1,Neutral
+2002.0,MJJ,0.7,El Nino
+2003.0,MJJ,-0.2,Neutral
+2004.0,MJJ,0.3,Neutral
+2005.0,MJJ,0.1,Neutral
+2006.0,MJJ,0.0,Neutral
+2007.0,MJJ,-0.5,La Nina
+2008.0,MJJ,-0.6,La Nina
+2009.0,MJJ,0.3,Neutral
+2010.0,MJJ,-0.7,La Nina
+2011.0,MJJ,-0.4,Neutral
+2012.0,MJJ,0.1,Neutral
+2013.0,MJJ,-0.3,Neutral
+2014.0,MJJ,0.2,Neutral
+2015.0,MJJ,1.3,El Nino
+2016.0,MJJ,0.0,Neutral
+2017.0,MJJ,0.4,Neutral
+2018.0,MJJ,0.1,Neutral
+2019.0,MJJ,0.5,El Nino
+2020.0,MJJ,-0.2,Neutral
+2021.0,MJJ,-0.3,Neutral
+2022.0,MJJ,-0.8,La Nina
+2023.0,MJJ,0.8,El Nino
+2024.0,MJJ,0.2,Neutral
+2025.0,MJJ,0.0,Neutral
+1950.0,JJA,-0.5,La Nina
+1951.0,JJA,0.7,El Nino
+1952.0,JJA,-0.1,Neutral
+1953.0,JJA,0.7,El Nino
+1954.0,JJA,-0.6,La Nina
+1955.0,JJA,-0.7,La Nina
+1956.0,JJA,-0.6,La Nina
+1957.0,JJA,1.3,El Nino
+1958.0,JJA,0.6,El Nino
+1959.0,JJA,-0.2,Neutral
+1960.0,JJA,0.1,Neutral
+1961.0,JJA,0.1,Neutral
+1962.0,JJA,0.0,Neutral
+1963.0,JJA,0.9,El Nino
+1964.0,JJA,-0.6,La Nina
+1965.0,JJA,1.2,El Nino
+1966.0,JJA,0.2,Neutral
+1967.0,JJA,0.0,Neutral
+1968.0,JJA,0.6,El Nino
+1969.0,JJA,0.4,Neutral
+1970.0,JJA,-0.6,La Nina
+1971.0,JJA,-0.8,La Nina
+1972.0,JJA,1.1,El Nino
+1973.0,JJA,-1.1,La Nina
+1974.0,JJA,-0.5,La Nina
+1975.0,JJA,-1.1,La Nina
+1976.0,JJA,0.2,Neutral
+1977.0,JJA,0.4,Neutral
+1978.0,JJA,-0.4,Neutral
+1979.0,JJA,0.0,Neutral
+1980.0,JJA,0.3,Neutral
+1981.0,JJA,-0.3,Neutral
+1982.0,JJA,0.8,El Nino
+1983.0,JJA,0.3,Neutral
+1984.0,JJA,-0.3,Neutral
+1985.0,JJA,-0.5,La Nina
+1986.0,JJA,0.2,Neutral
+1987.0,JJA,1.5,El Nino
+1988.0,JJA,-1.3,La Nina
+1989.0,JJA,-0.3,Neutral
+1990.0,JJA,0.3,Neutral
+1991.0,JJA,0.7,El Nino
+1992.0,JJA,0.4,Neutral
+1993.0,JJA,0.3,Neutral
+1994.0,JJA,0.4,Neutral
+1995.0,JJA,-0.2,Neutral
+1996.0,JJA,-0.3,Neutral
+1997.0,JJA,1.6,El Nino
+1998.0,JJA,-0.8,La Nina
+1999.0,JJA,-1.1,La Nina
+2000.0,JJA,-0.6,La Nina
+2001.0,JJA,-0.1,Neutral
+2002.0,JJA,0.8,El Nino
+2003.0,JJA,0.1,Neutral
+2004.0,JJA,0.5,El Nino
+2005.0,JJA,-0.1,Neutral
+2006.0,JJA,0.1,Neutral
+2007.0,JJA,-0.6,La Nina
+2008.0,JJA,-0.4,Neutral
+2009.0,JJA,0.5,El Nino
+2010.0,JJA,-1.0,La Nina
+2011.0,JJA,-0.4,Neutral
+2012.0,JJA,0.3,Neutral
+2013.0,JJA,-0.4,Neutral
+2014.0,JJA,0.1,Neutral
+2015.0,JJA,1.6,El Nino
+2016.0,JJA,-0.3,Neutral
+2017.0,JJA,0.2,Neutral
+2018.0,JJA,0.1,Neutral
+2019.0,JJA,0.3,Neutral
+2020.0,JJA,-0.4,Neutral
+2021.0,JJA,-0.3,Neutral
+2022.0,JJA,-0.8,La Nina
+2023.0,JJA,1.1,El Nino
+2024.0,JJA,0.1,Neutral
+2025.0,JJA,-0.1,Neutral
+1950.0,JAS,-0.4,Neutral
+1951.0,JAS,0.9,El Nino
+1952.0,JAS,0.0,Neutral
+1953.0,JAS,0.7,El Nino
+1954.0,JAS,-0.8,La Nina
+1955.0,JAS,-0.7,La Nina
+1956.0,JAS,-0.6,La Nina
+1957.0,JAS,1.3,El Nino
+1958.0,JAS,0.4,Neutral
+1959.0,JAS,-0.3,Neutral
+1960.0,JAS,0.2,Neutral
+1961.0,JAS,-0.1,Neutral
+1962.0,JAS,-0.1,Neutral
+1963.0,JAS,1.1,El Nino
+1964.0,JAS,-0.7,La Nina
+1965.0,JAS,1.5,El Nino
+1966.0,JAS,0.1,Neutral
+1967.0,JAS,-0.2,Neutral
+1968.0,JAS,0.5,El Nino
+1969.0,JAS,0.5,El Nino
+1970.0,JAS,-0.8,La Nina
+1971.0,JAS,-0.8,La Nina
+1972.0,JAS,1.4,El Nino
+1973.0,JAS,-1.3,La Nina
+1974.0,JAS,-0.4,Neutral
+1975.0,JAS,-1.2,La Nina
+1976.0,JAS,0.4,Neutral
+1977.0,JAS,0.4,Neutral
+1978.0,JAS,-0.4,Neutral
+1979.0,JAS,0.2,Neutral
+1980.0,JAS,0.0,Neutral
+1981.0,JAS,-0.2,Neutral
+1982.0,JAS,1.1,El Nino
+1983.0,JAS,-0.1,Neutral
+1984.0,JAS,-0.2,Neutral
+1985.0,JAS,-0.5,La Nina
+1986.0,JAS,0.4,Neutral
+1987.0,JAS,1.7,El Nino
+1988.0,JAS,-1.1,La Nina
+1989.0,JAS,-0.3,Neutral
+1990.0,JAS,0.4,Neutral
+1991.0,JAS,0.6,El Nino
+1992.0,JAS,0.1,Neutral
+1993.0,JAS,0.3,Neutral
+1994.0,JAS,0.4,Neutral
+1995.0,JAS,-0.5,La Nina
+1996.0,JAS,-0.3,Neutral
+1997.0,JAS,1.9,El Nino
+1998.0,JAS,-1.1,La Nina
+1999.0,JAS,-1.1,La Nina
+2000.0,JAS,-0.5,La Nina
+2001.0,JAS,-0.1,Neutral
+2002.0,JAS,0.9,El Nino
+2003.0,JAS,0.2,Neutral
+2004.0,JAS,0.6,El Nino
+2005.0,JAS,-0.1,Neutral
+2006.0,JAS,0.3,Neutral
+2007.0,JAS,-0.8,La Nina
+2008.0,JAS,-0.2,Neutral
+2009.0,JAS,0.6,El Nino
+2010.0,JAS,-1.3,La Nina
+2011.0,JAS,-0.6,La Nina
+2012.0,JAS,0.4,Neutral
+2013.0,JAS,-0.3,Neutral
+2014.0,JAS,0.1,Neutral
+2015.0,JAS,1.9,El Nino
+2016.0,JAS,-0.5,La Nina
+2017.0,JAS,-0.1,Neutral
+2018.0,JAS,0.3,Neutral
+2019.0,JAS,0.2,Neutral
+2020.0,JAS,-0.5,La Nina
+2021.0,JAS,-0.4,Neutral
+2022.0,JAS,-0.9,La Nina
+2023.0,JAS,1.4,El Nino
+2024.0,JAS,-0.1,Neutral
+2025.0,JAS,-0.3,Neutral
+1950.0,ASO,-0.4,Neutral
+1951.0,ASO,1.0,El Nino
+1952.0,ASO,0.2,Neutral
+1953.0,ASO,0.8,El Nino
+1954.0,ASO,-0.9,La Nina
+1955.0,ASO,-1.1,La Nina
+1956.0,ASO,-0.5,La Nina
+1957.0,ASO,1.3,El Nino
+1958.0,ASO,0.4,Neutral
+1959.0,ASO,-0.1,Neutral
+1960.0,ASO,0.3,Neutral
+1961.0,ASO,-0.3,Neutral
+1962.0,ASO,-0.1,Neutral
+1963.0,ASO,1.2,El Nino
+1964.0,ASO,-0.8,La Nina
+1965.0,ASO,1.9,El Nino
+1966.0,ASO,-0.1,Neutral
+1967.0,ASO,-0.3,Neutral
+1968.0,ASO,0.4,Neutral
+1969.0,ASO,0.8,El Nino
+1970.0,ASO,-0.8,La Nina
+1971.0,ASO,-0.8,La Nina
+1972.0,ASO,1.6,El Nino
+1973.0,ASO,-1.5,La Nina
+1974.0,ASO,-0.4,Neutral
+1975.0,ASO,-1.4,La Nina
+1976.0,ASO,0.6,El Nino
+1977.0,ASO,0.6,El Nino
+1978.0,ASO,-0.4,Neutral
+1979.0,ASO,0.3,Neutral
+1980.0,ASO,-0.1,Neutral
+1981.0,ASO,-0.2,Neutral
+1982.0,ASO,1.6,El Nino
+1983.0,ASO,-0.5,La Nina
+1984.0,ASO,-0.2,Neutral
+1985.0,ASO,-0.4,Neutral
+1986.0,ASO,0.7,El Nino
+1987.0,ASO,1.6,El Nino
+1988.0,ASO,-1.2,La Nina
+1989.0,ASO,-0.2,Neutral
+1990.0,ASO,0.4,Neutral
+1991.0,ASO,0.6,El Nino
+1992.0,ASO,-0.1,Neutral
+1993.0,ASO,0.2,Neutral
+1994.0,ASO,0.6,El Nino
+1995.0,ASO,-0.8,La Nina
+1996.0,ASO,-0.4,Neutral
+1997.0,ASO,2.1,El Nino
+1998.0,ASO,-1.3,La Nina
+1999.0,ASO,-1.2,La Nina
+2000.0,ASO,-0.5,La Nina
+2001.0,ASO,-0.2,Neutral
+2002.0,ASO,1.0,El Nino
+2003.0,ASO,0.3,Neutral
+2004.0,ASO,0.7,El Nino
+2005.0,ASO,-0.1,Neutral
+2006.0,ASO,0.5,El Nino
+2007.0,ASO,-1.1,La Nina
+2008.0,ASO,-0.2,Neutral
+2009.0,ASO,0.7,El Nino
+2010.0,ASO,-1.6,La Nina
+2011.0,ASO,-0.8,La Nina
+2012.0,ASO,0.4,Neutral
+2013.0,ASO,-0.2,Neutral
+2014.0,ASO,0.3,Neutral
+2015.0,ASO,2.2,El Nino
+2016.0,ASO,-0.6,La Nina
+2017.0,ASO,-0.3,Neutral
+2018.0,ASO,0.5,El Nino
+2019.0,ASO,0.2,Neutral
+2020.0,ASO,-0.8,La Nina
+2021.0,ASO,-0.6,La Nina
+2022.0,ASO,-1.0,La Nina
+2023.0,ASO,1.6,El Nino
+2024.0,ASO,-0.2,Neutral
+2025.0,ASO,-0.4,Neutral
+1950.0,SON,-0.4,Neutral
+1951.0,SON,1.2,El Nino
+1952.0,SON,0.1,Neutral
+1953.0,SON,0.8,El Nino
+1954.0,SON,-0.8,La Nina
+1955.0,SON,-1.4,La Nina
+1956.0,SON,-0.4,Neutral
+1957.0,SON,1.4,El Nino
+1958.0,SON,0.4,Neutral
+1959.0,SON,0.0,Neutral
+1960.0,SON,0.2,Neutral
+1961.0,SON,-0.3,Neutral
+1962.0,SON,-0.2,Neutral
+1963.0,SON,1.3,El Nino
+1964.0,SON,-0.8,La Nina
+1965.0,SON,2.0,El Nino
+1966.0,SON,-0.1,Neutral
+1967.0,SON,-0.4,Neutral
+1968.0,SON,0.5,El Nino
+1969.0,SON,0.9,El Nino
+1970.0,SON,-0.7,La Nina
+1971.0,SON,-0.9,La Nina
+1972.0,SON,1.8,El Nino
+1973.0,SON,-1.7,La Nina
+1974.0,SON,-0.6,La Nina
+1975.0,SON,-1.4,La Nina
+1976.0,SON,0.8,El Nino
+1977.0,SON,0.7,El Nino
+1978.0,SON,-0.3,Neutral
+1979.0,SON,0.5,El Nino
+1980.0,SON,0.0,Neutral
+1981.0,SON,-0.1,Neutral
+1982.0,SON,2.0,El Nino
+1983.0,SON,-0.8,La Nina
+1984.0,SON,-0.6,La Nina
+1985.0,SON,-0.3,Neutral
+1986.0,SON,0.9,El Nino
+1987.0,SON,1.5,El Nino
+1988.0,SON,-1.5,La Nina
+1989.0,SON,-0.2,Neutral
+1990.0,SON,0.3,Neutral
+1991.0,SON,0.8,El Nino
+1992.0,SON,-0.2,Neutral
+1993.0,SON,0.1,Neutral
+1994.0,SON,0.7,El Nino
+1995.0,SON,-1.0,La Nina
+1996.0,SON,-0.4,Neutral
+1997.0,SON,2.3,El Nino
+1998.0,SON,-1.4,La Nina
+1999.0,SON,-1.3,La Nina
+2000.0,SON,-0.6,La Nina
+2001.0,SON,-0.3,Neutral
+2002.0,SON,1.2,El Nino
+2003.0,SON,0.3,Neutral
+2004.0,SON,0.7,El Nino
+2005.0,SON,-0.3,Neutral
+2006.0,SON,0.8,El Nino
+2007.0,SON,-1.3,La Nina
+2008.0,SON,-0.4,Neutral
+2009.0,SON,1.0,El Nino
+2010.0,SON,-1.6,La Nina
+2011.0,SON,-1.0,La Nina
+2012.0,SON,0.3,Neutral
+2013.0,SON,-0.1,Neutral
+2014.0,SON,0.5,El Nino
+2015.0,SON,2.5,El Nino
+2016.0,SON,-0.6,La Nina
+2017.0,SON,-0.6,La Nina
+2018.0,SON,0.8,El Nino
+2019.0,SON,0.4,Neutral
+2020.0,SON,-1.1,La Nina
+2021.0,SON,-0.8,La Nina
+2022.0,SON,-0.9,La Nina
+2023.0,SON,1.8,El Nino
+2024.0,SON,-0.2,Neutral
+2025.0,SON,-0.5,La Nina
+1950.0,OND,-0.6,La Nina
+1951.0,OND,1.0,El Nino
+1952.0,OND,0.0,Neutral
+1953.0,OND,0.8,El Nino
+1954.0,OND,-0.7,La Nina
+1955.0,OND,-1.7,La Nina
+1956.0,OND,-0.4,Neutral
+1957.0,OND,1.5,El Nino
+1958.0,OND,0.5,El Nino
+1959.0,OND,0.0,Neutral
+1960.0,OND,0.1,Neutral
+1961.0,OND,-0.2,Neutral
+1962.0,OND,-0.3,Neutral
+1963.0,OND,1.4,El Nino
+1964.0,OND,-0.8,La Nina
+1965.0,OND,2.0,El Nino
+1966.0,OND,-0.2,Neutral
+1967.0,OND,-0.3,Neutral
+1968.0,OND,0.7,El Nino
+1969.0,OND,0.8,El Nino
+1970.0,OND,-0.9,La Nina
+1971.0,OND,-1.0,La Nina
+1972.0,OND,2.1,El Nino
+1973.0,OND,-1.9,La Nina
+1974.0,OND,-0.8,La Nina
+1975.0,OND,-1.6,La Nina
+1976.0,OND,0.9,El Nino
+1977.0,OND,0.8,El Nino
+1978.0,OND,-0.1,Neutral
+1979.0,OND,0.5,El Nino
+1980.0,OND,0.1,Neutral
+1981.0,OND,-0.2,Neutral
+1982.0,OND,2.2,El Nino
+1983.0,OND,-1.0,La Nina
+1984.0,OND,-0.9,La Nina
+1985.0,OND,-0.3,Neutral
+1986.0,OND,1.1,El Nino
+1987.0,OND,1.3,El Nino
+1988.0,OND,-1.8,La Nina
+1989.0,OND,-0.2,Neutral
+1990.0,OND,0.4,Neutral
+1991.0,OND,1.2,El Nino
+1992.0,OND,-0.3,Neutral
+1993.0,OND,0.0,Neutral
+1994.0,OND,1.0,El Nino
+1995.0,OND,-1.0,La Nina
+1996.0,OND,-0.4,Neutral
+1997.0,OND,2.4,El Nino
+1998.0,OND,-1.5,La Nina
+1999.0,OND,-1.5,La Nina
+2000.0,OND,-0.7,La Nina
+2001.0,OND,-0.3,Neutral
+2002.0,OND,1.3,El Nino
+2003.0,OND,0.4,Neutral
+2004.0,OND,0.7,El Nino
+2005.0,OND,-0.6,La Nina
+2006.0,OND,0.9,El Nino
+2007.0,OND,-1.5,La Nina
+2008.0,OND,-0.6,La Nina
+2009.0,OND,1.4,El Nino
+2010.0,OND,-1.6,La Nina
+2011.0,OND,-1.0,La Nina
+2012.0,OND,0.1,Neutral
+2013.0,OND,-0.1,Neutral
+2014.0,OND,0.7,El Nino
+2015.0,OND,2.6,El Nino
+2016.0,OND,-0.6,La Nina
+2017.0,OND,-0.8,La Nina
+2018.0,OND,1.0,El Nino
+2019.0,OND,0.6,El Nino
+2020.0,OND,-1.2,La Nina
+2021.0,OND,-0.9,La Nina
+2022.0,OND,-0.8,La Nina
+2023.0,OND,2.0,El Nino
+2024.0,OND,-0.3,Neutral
+2025.0,OND,-0.6,La Nina
+1950.0,NDJ,-0.8,La Nina
+1951.0,NDJ,0.8,El Nino
+1952.0,NDJ,0.1,Neutral
+1953.0,NDJ,0.8,El Nino
+1954.0,NDJ,-0.7,La Nina
+1955.0,NDJ,-1.5,La Nina
+1956.0,NDJ,-0.4,Neutral
+1957.0,NDJ,1.7,El Nino
+1958.0,NDJ,0.6,El Nino
+1959.0,NDJ,0.0,Neutral
+1960.0,NDJ,0.1,Neutral
+1961.0,NDJ,-0.2,Neutral
+1962.0,NDJ,-0.4,Neutral
+1963.0,NDJ,1.3,El Nino
+1964.0,NDJ,-0.8,La Nina
+1965.0,NDJ,1.7,El Nino
+1966.0,NDJ,-0.3,Neutral
+1967.0,NDJ,-0.4,Neutral
+1968.0,NDJ,1.0,El Nino
+1969.0,NDJ,0.6,El Nino
+1970.0,NDJ,-1.1,La Nina
+1971.0,NDJ,-0.9,La Nina
+1972.0,NDJ,2.1,El Nino
+1973.0,NDJ,-2.0,La Nina
+1974.0,NDJ,-0.6,La Nina
+1975.0,NDJ,-1.7,La Nina
+1976.0,NDJ,0.8,El Nino
+1977.0,NDJ,0.8,El Nino
+1978.0,NDJ,0.0,Neutral
+1979.0,NDJ,0.6,El Nino
+1980.0,NDJ,0.0,Neutral
+1981.0,NDJ,-0.1,Neutral
+1982.0,NDJ,2.2,El Nino
+1983.0,NDJ,-0.9,La Nina
+1984.0,NDJ,-1.1,La Nina
+1985.0,NDJ,-0.4,Neutral
+1986.0,NDJ,1.2,El Nino
+1987.0,NDJ,1.1,El Nino
+1988.0,NDJ,-1.8,La Nina
+1989.0,NDJ,-0.1,Neutral
+1990.0,NDJ,0.4,Neutral
+1991.0,NDJ,1.5,El Nino
+1992.0,NDJ,-0.1,Neutral
+1993.0,NDJ,0.1,Neutral
+1994.0,NDJ,1.1,El Nino
+1995.0,NDJ,-1.0,La Nina
+1996.0,NDJ,-0.5,La Nina
+1997.0,NDJ,2.4,El Nino
+1998.0,NDJ,-1.6,La Nina
+1999.0,NDJ,-1.7,La Nina
+2000.0,NDJ,-0.7,La Nina
+2001.0,NDJ,-0.3,Neutral
+2002.0,NDJ,1.1,El Nino
+2003.0,NDJ,0.4,Neutral
+2004.0,NDJ,0.7,El Nino
+2005.0,NDJ,-0.8,La Nina
+2006.0,NDJ,0.9,El Nino
+2007.0,NDJ,-1.6,La Nina
+2008.0,NDJ,-0.7,La Nina
+2009.0,NDJ,1.6,El Nino
+2010.0,NDJ,-1.5,La Nina
+2011.0,NDJ,-0.9,La Nina
+2012.0,NDJ,-0.1,Neutral
+2013.0,NDJ,-0.2,Neutral
+2014.0,NDJ,0.8,El Nino
+2015.0,NDJ,2.8,El Nino
+2016.0,NDJ,-0.5,La Nina
+2017.0,NDJ,-0.9,La Nina
+2018.0,NDJ,0.9,El Nino
+2019.0,NDJ,0.7,El Nino
+2020.0,NDJ,-1.1,La Nina
+2021.0,NDJ,-0.9,La Nina
+2022.0,NDJ,-0.7,La Nina
+2023.0,NDJ,2.1,El Nino
+2024.0,NDJ,-0.4,Neutral
+2025.0,NDJ,-0.5,La Nina

@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,67.59,81.38,0.212
+Random Forest,82.25,100.43,-0.201
+Linear Regression + Year,68.23,83.11,0.178
