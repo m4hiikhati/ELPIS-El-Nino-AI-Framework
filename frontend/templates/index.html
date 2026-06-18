@@ -1,106 +1,92 @@
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Niño AI Prediction System</title>
 
-<title>
-El Niño Impact Prediction
-</title>
-
-<link rel="stylesheet" href="/static/style.css">
-
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-
 
 <body>
 
+    <div class="container">
 
-<div class="container">
+        <h1>🌊 El Niño AI Prediction System</h1>
 
-<h1>
-🌊 El Niño Impact Prediction System
-</h1>
+        <p class="subtitle">
+            Predict climate conditions and rainfall impact using Machine Learning
+        </p>
 
+        <form action="/predict" method="POST">
 
-<form action="/predict" method="POST">
+            <label for="oni">ONI (Oceanic Niño Index)</label>
+            <input
+                type="number"
+                step="any"
+                name="oni"
+                id="oni"
+                placeholder="Example: 1.5"
+                required>
 
+            <label for="rainfall">Monsoon Rainfall</label>
+            <input
+                type="number"
+                step="any"
+                name="rainfall"
+                id="rainfall"
+                placeholder="Example: 900"
+                required>
 
-<label>
-ONI Index
-</label>
+            <label for="departure">Rainfall Departure (%)</label>
+            <input
+                type="number"
+                step="any"
+                name="departure"
+                id="departure"
+                placeholder="Example: -10"
+                required>
 
-<input 
-type="number"
-step="0.01"
-name="oni"
-required>
+            <label for="temperature">Average Temperature (°C)</label>
+            <input
+                type="number"
+                step="any"
+                name="temperature"
+                id="temperature"
+                placeholder="Example: 29"
+                required>
 
+            <button type="submit">
+                Predict
+            </button>
 
-<label>
-Rainfall (mm)
-</label>
+        </form>
 
-<input 
-type="number"
-step="0.01"
-name="rainfall"
-required>
+        {% if prediction %}
 
+        <div class="result">
 
-<label>
-Temperature (°C)
-</label>
+            <h2>Climate Condition</h2>
 
-<input 
-type="number"
-step="0.01"
-name="temperature"
-required>
+            <p class="climate">
+                {{ climate }}
+            </p>
 
+            <h2>Predicted Rainfall Impact</h2>
 
-<label>
-Humidity (%)
-</label>
+            <p class="prediction">
+                {{ prediction }}
+            </p>
 
-<input 
-type="number"
-step="0.01"
-name="humidity"
-required>
+        </div>
 
+        {% endif %}
 
-
-<button type="submit">
-Predict Impact
-</button>
-
-
-</form>
-
-
-
-{% if prediction %}
-
-<div class="result">
-
-<h2>
-Prediction:
-</h2>
-
-<p>
-{{prediction}}
-</p>
-
-
-</div>
-
-{% endif %}
-
-
-</div>
-
+    </div>
 
 </body>
 
 </html>
+
+
